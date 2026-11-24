@@ -6,7 +6,8 @@
 
 Construo aplicações e APIs com foco em código claro, arquitetura e aprendizado contínuo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edric_Guilherme-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/edric-guilherme-2701a7250](https://www.linkedin.com/in/edric-souza/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edric_Souza-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edric-souza/)
+[![Gmail](https://img.shields.io/badge/Gmail-edric.bahiasouza%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edric.bahiasouza@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-EdricSouza-181717?style=flat&logo=github&logoColor=white)](https://github.com/EdricSouza)
 
 </div>
