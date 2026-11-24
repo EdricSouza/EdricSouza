@@ -41,12 +41,19 @@ Construo aplicações e APIs com foco em código claro, arquitetura e aprendizad
 | [RabbitMQ C# Test](https://github.com/EdricSouza/RabbitMq-Csharp-Test) | Experimentos com comunicação assíncrona e mensageria. | C#, RabbitMQ |
 | [Clone TabNews](https://github.com/EdricSouza/clone-tabnews) | Implementação prática inspirada no TabNews. | JavaScript |
 
-## Atividade no GitHub
+## Experiência e competências
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdricSouza&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&commits_year=2026&hide=contribs" alt="Estatísticas do GitHub de Edric Souza em 2026">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdricSouza&layout=compact&hide_border=true&theme=transparent&locale=pt-br" alt="Linguagens mais utilizadas por Edric Souza">
-</div>
+Atuo há mais de 2 anos com sistemas internos, APIs REST e automação de processos. Atualmente sou Programador de Sistemas Júnior no Cartório do 1º Ofício de Registro de Imóveis de Camaçari.
+
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core e JWT.
+- **Dados e automação:** SQL Server, PostgreSQL, Python, FastAPI e OCR.
+- **Arquitetura e entrega:** SOLID, DDD, Clean Architecture, RabbitMQ, Docker, IIS e GitHub Actions.
+
+## Formação e estudos
+
+- **Engenharia de Software** — Universidade Católica do Salvador, em andamento (conclusão prevista para 2028).
+- **Técnico em Informática** — Instituto Federal da Bahia, concluído em 2023.
+- **Inglês:** nível B2.
 
 ---
 
