@@ -44,7 +44,7 @@ Construo aplicações e APIs com foco em código claro, arquitetura e aprendizad
 ## Atividade no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdricSouza&show_icons=true&hide_border=true&theme=transparent&locale=pt-br" alt="Estatísticas do GitHub de Edric Souza">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdricSouza&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&commits_year=2026&hide=contribs" alt="Estatísticas do GitHub de Edric Souza em 2026">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdricSouza&layout=compact&hide_border=true&theme=transparent&locale=pt-br" alt="Linguagens mais utilizadas por Edric Souza">
 </div>
 
